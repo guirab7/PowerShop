@@ -1,0 +1,16 @@
+{
+  "name": "PowerShopBot",
+  "version": "1.0.0",
+  "description": "Um bot moderno com Baileys oficial",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Gui",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.2",
+    "pino": "^8.1.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
